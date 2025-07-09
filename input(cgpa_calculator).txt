@@ -1,0 +1,17 @@
+====== CGPA CALCULATOR ======
+       Enter number of courses: 3
+
+Course 1:
+Course Name: Mathematics
+Grade Point (e.g. A=10, B=8): 9
+Credit Hours: 4
+
+Course 2:
+Course Name: Physics
+Grade Point (e.g. A=10, B=8): 8
+Credit Hours: 3
+
+Course 3:
+Course Name: English
+Grade Point (e.g. A=10, B=8): 10
+Credit Hours: 2
